@@ -3,3 +3,5 @@ Operator-Connect.drawio
 HA-Architecture.drawio
 DR-Architecture.drawio
 Call-Flow.drawio
+
+Then use docs/13-Diagrams.md as an index linking to those files rather than storing diagrams in two locations.
